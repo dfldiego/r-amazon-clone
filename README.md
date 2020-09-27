@@ -70,3 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ## Dependencias instaladas
 
 - CLI Firebase: sudo npm install -g firebase-tools
+
+- Material UI: npm install @material-ui/core
+
+- Material UI Icons: npm install @material-ui/icons
